@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "863944661784",
+    "firebase_url": "https://coform-a0b63.firebaseio.com",
+    "project_id": "coform-a0b63",
+    "storage_bucket": "coform-a0b63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863944661784:android:4d7d60f7b1f7039ac89c6d",
+        "android_client_info": {
+          "package_name": "com.example.coform"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863944661784-vckuo6ci18acia84p8ua3sdvlvmammm1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coform",
+            "certificate_hash": "7c29a19036a12b0dd83722cdf17e0518ed407427"
+          }
+        },
+        {
+          "client_id": "863944661784-s9o6hi3uu7ve701n5k74chm8em5iek77.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4r3p-AGCBJoMYUJNNLtEccA9ZXy0vJoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863944661784-s9o6hi3uu7ve701n5k74chm8em5iek77.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
